@@ -1,0 +1,2 @@
+timestamp_utc,temp_c,feels_like_c,pressure_hpa,humidity_percent,dew_point_c,uvi,clouds_percent,visibility_m,wind_speed_mps,wind_deg,wind_gust_mps,weather_main,weather_desc,weather_icon,rain_1h_mm,snow_1h_mm
+2025-05-19 08:39:40+00:00,32,39,1006,66,24.85,2.02,20,10000,4.12,120,,Clouds,few clouds,02d,,
